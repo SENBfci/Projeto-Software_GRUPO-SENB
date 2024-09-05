@@ -21,7 +21,12 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *<Nome_do_seu_Projeto>*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *<
+Gustavo Fugulin Soares da Silva - 10418552;
+Renan Garrido - 10417093
+Rodrigo Roveratti Guerrero - 10417090
+Otto Martins Mota - 10418170
+>*
 
 # Descrição
 
