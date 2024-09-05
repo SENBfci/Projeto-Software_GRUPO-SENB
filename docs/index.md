@@ -39,10 +39,6 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
-Para um projeto como o descrito — uma plataforma híbrida web/mobile para controle de presença de alunos — é crucial definir requisitos funcionais e não-funcionais de forma clara e detalhada para garantir que o sistema atenda às necessidades dos usuários e se comporte de maneira eficiente e segura. Vou detalhar a seguir as recomendações para ambos os tipos de requisitos.
-
-## Análise de Requisitos Funcionais e Não-Funcionais
 ### Requisitos Funcionais
 1. **Gerenciamento de Usuários**
    - **Cadastro e Login**: Permitir que professores, alunos e pais se cadastrem e façam login na plataforma.
