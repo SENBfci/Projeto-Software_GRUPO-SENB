@@ -95,10 +95,9 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 6. **Conformidade**
    - **Regulamentações e Normas**: Garantir que o sistema esteja em conformidade com regulamentações de proteção de dados, como o GDPR ou a Lei Geral de Proteção de Dados (LGPD), e com normas educacionais relevantes.
 
-
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Diagrama de Atividae drawio](https://github.com/user-attachments/assets/e73af506-0586-4d25-8374-4b12c1bbc11d)
 
 # Diagrama de Casos de Uso
 
