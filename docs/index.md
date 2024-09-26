@@ -100,8 +100,8 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 ![Diagrama de Atividae drawio](https://github.com/user-attachments/assets/e73af506-0586-4d25-8374-4b12c1bbc11d)
 
 # Diagrama de Casos de Uso
+![Novo Projeto](https://github.com/user-attachments/assets/14f37494-84c9-490a-8cc8-9e8da5edc454)
 
-![Diagrama de casos drawio](https://github.com/user-attachments/assets/1c5f5a5c-56a8-48d6-be80-66dfde6b66d7)
 
 
 # Descrição dos Casos de Uso
