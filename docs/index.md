@@ -106,7 +106,7 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 
 # Descrição dos Casos de Uso
 
-[Renan Rei do SENB.pdf](https://github.com/user-attachments/files/17149001/Renan.Rei.do.SENB.pdf)
+[Descrição dos Casos de Uso Table.pdf](https://github.com/user-attachments/files/17149018/Descricao.dos.Casos.de.Uso.Table.pdf)
 
 
 # Diagrama de Sequência
