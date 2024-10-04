@@ -24,9 +24,9 @@
 # Autores
 
 * Aluno 1: Gustavo Fugulin Soares da Silva
-* Aluno 2: Renan Garrido - 10417093
-* Aluno 3: Rodrigo Roveratti Guerrero - 10417090
-* Aluno 4: Otto Martins Mota - 10418170
+* Aluno 2: Otto Martins Mota - 10418170
+* Aluno 3: Renan Garrido - 10417093
+* Aluno 4: Rodrigo Roveratti Guerrero - 10417090
 
 
 
