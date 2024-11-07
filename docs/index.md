@@ -115,6 +115,9 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 # Diagrama de Classes
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Classe UML](https://github.com/user-attachments/assets/9a7e1915-d6f0-4996-94ba-e3c3b5b31e39)
+
+
 
 # Diagrama de Estados
 
