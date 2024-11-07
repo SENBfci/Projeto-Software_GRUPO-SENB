@@ -111,6 +111,9 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/user-attachments/assets/a8290d8d-029f-4a37-bf99-b3e786f1dca7)
+![image](https://github.com/user-attachments/assets/8ef2d9af-1ef9-4806-a7fe-abbd5910e7a9)
+
 
 # Diagrama de Classes
 
