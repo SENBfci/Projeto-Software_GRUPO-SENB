@@ -137,3 +137,8 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 # Referências
 
 *&lt;Lista de referências&gt;*
+
+Filho, W.D.P. P. (2019). Engenharia de Software – Produtos – Vol.1 (4th ed.).
+
+Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.). 
+
