@@ -131,7 +131,8 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-![Diagrama de Implantação](https://github.com/user-attachments/assets/663ccd64-7f70-4ffe-aaec-477bb3cc966d)
+![Diagrama de Implantação2](https://github.com/user-attachments/assets/80c63afa-cc7e-44b4-bf22-ca47049c1701)
+
 
 
 # Referências
