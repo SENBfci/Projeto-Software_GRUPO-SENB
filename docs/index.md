@@ -125,6 +125,8 @@ O projeto trata-se de uma plataforma híbrida web/mobile, em que, o principal ob
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/user-attachments/assets/0229d174-2692-46d6-9e8c-902ab2da8205)
+
 
 # Diagrama de Implantação
 
